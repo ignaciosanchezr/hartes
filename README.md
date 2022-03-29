@@ -1,2 +1,2 @@
 # test1
-link: https://ignaciosanchezr.github.io/hartes/
+link: https://ignaciosanchezr.github.io/test1/
